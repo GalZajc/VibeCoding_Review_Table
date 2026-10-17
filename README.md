@@ -19,7 +19,7 @@ The installer uses `$CODEX_HOME/skills/review-table` or `~/.codex/skills/review-
 ## What the table does
 
 - Compact gray page with search and All / unreviewed / assumed / failed / passed filters.
-- ✓ tested/pass, ○ assumed without testing, ✕ reported failure, or no selection. Selected icons turn light blue.
+- ✓ tested/pass, ○ assumed without testing, ✕ reported failure, or no selection. Green, light blue and red distinguish the selected states.
 - Click requirement text to edit; Ctrl+Enter/blur saves, Escape cancels.
 - Notes with phase-specific screenshots, paste/drop/file upload and note history.
 - Add a requirement from the page; archive any row with an orange trash icon. Restore with a crossed trash icon to exactly its original place.

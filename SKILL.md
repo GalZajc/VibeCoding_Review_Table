@@ -5,7 +5,7 @@ description: Open, populate and maintain a project's local interactive feature r
 
 # Project review table
 
-Use the bundled compact gray review page for a human to test the project's features. Each row has ✓ tested/pass, ○ assumed/untested, ✕ reported failure, or no selection (not yet reviewed). Notes and screenshots belong to the requirement or its individual note phase. Orange trash archives; restore returns the row to its original position. Descriptions are editable. All state and generated follow-up prompts stay in the project.
+Use the bundled compact gray review page for a human to test the project's features. Each row has ✓ tested/pass, ○ assumed/untested, ✕ reported failure, or no selection (not yet reviewed). Selected states are clearly highlighted. Notes and screenshots belong to the requirement or its individual note phase. Orange trash archives; restore returns the row to its original position. Descriptions are editable. All state and generated follow-up prompts stay in the project.
 
 ## Open or create
 
