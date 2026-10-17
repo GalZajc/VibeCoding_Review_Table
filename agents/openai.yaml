@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Table"
+  short_description: "Odpri in vzdržuj projektno tabelo za pregled funkcij"
+  default_prompt: "Use $review-table to open this project's feature review table, populate it from our requirements, and preserve existing feedback."
